@@ -4,5 +4,6 @@ end
 
 def turn_on
     dont_do = false
+    performance = 'brian'
     return true
 end
