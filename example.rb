@@ -3,5 +3,6 @@ def turn_of
 end
 
 def turn_on
+    dont_do = false
     return true
 end
